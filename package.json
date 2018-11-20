@@ -1,0 +1,11 @@
+{
+    "name": "lorikeet-electron",
+    "version": "1.0.0",
+    "main": "main.js",
+    "start": "electron .",
+    "dependencies": {
+        "async": "^2.6.1",
+        "lunr": "^1.0.0",
+        "osenv": "^0.1.5"
+    }
+}
